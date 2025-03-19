@@ -1,6 +1,6 @@
 # Cyberlair Projects
 
-A collection of Python projects for freelancing on platforms like Workana and CryptoJobs.
+A collection of Python projects for freelancing.
 
 ## Projects
 - `sum_numbers.py`: Takes 6 numbers from the user and prints their sum. Example: Input "1 2 3 4 5 6" outputs "21".
